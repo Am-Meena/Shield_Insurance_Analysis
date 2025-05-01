@@ -68,12 +68,41 @@ Shield Insurance now has clear visibility into what’s working—and where to f
 
 <h3 align="left">Recommendations</h3>
 
- **Geographic Strategy :**
+ **1.Geographic Strategy**
  
 **- Delhi NCR (Priority Market):**
 - Invest in Agent training programs
 - Build Hybrid models combining agent expertise with digital convenience
 
+**- Mumbai (Digital Innovation Hub):**
+- Implement Digital-first marketing campaigns
+- Launch Mumbai-exclusive digital features on the online app
 
+ **2.Age Segment Strategy**
 
+**- 31-40 Core Segment:**
+- Develop Retention programs with loyalty benefits
+- Create Family-oriented insurance bundles
+
+**- High-Value 65+ Segment:**
+- Introduce Premium service tier with dedicated relationship managers
+- Build Simplified digital interfaces specifically for seniors
+
+ **3.Channel Optimization**
+ 
+**- Offline-Agent Network:**
+- Add Agent performance incentives based on customer retention
+
+**- Digital Channels:**
+- Initiate Exclusive digital-only promotional offers
+- Simplify online application process
+
+ **4.Product Strategy**
+
+**- Policy Portfolio Optimization:**
+- Enhance POL4321HEL features to maintain market leadership
+- Review underperforming POL1048HEL for potential repositioning
+
+**- Customer Value Management:**
+- Craft predictive models for high settlement risk customers
 
