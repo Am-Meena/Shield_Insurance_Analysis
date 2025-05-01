@@ -27,10 +27,10 @@ Build a powerful dashboard that answers key business questions:
 
  Worked with 6 months of unstructured data, cleaned, transformed and built a dashboard with 4 interactive Views:
 
-·      Home – Highlights the key Dashboard sections and offers easy navigation
-·      Main view – Customer and Revenue Analysis for overall business health
-·      Sales Mode View – Customer and Revenue distribution across different Sales Channels
-·      Age Group View – Policy Preferences and Estimated Settlement across different Age Groups
+- Home – Highlights the key Dashboard sections and offers easy navigation
+- Main view – Customer and Revenue Analysis for overall business health
+- Sales Mode View – Customer and Revenue distribution across different Sales Channels
+- Age Group View – Policy Preferences and Estimated Settlement across different Age Groups
 
 📊 The Impact:
 Shield Insurance now has clear visibility into what’s working—and where to focus next. From identifying growth cities to optimizing sales strategies, the company now makes decisions powered by data, not guesswork.
