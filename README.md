@@ -68,8 +68,8 @@ Shield Insurance now has clear visibility into what’s working—and where to f
 
 <h3 align="left">Recommendations</h3>
 
- **Geographic Strategy :/**
-**- Delhi NCR (Priority Market):**
+ **Geographic Strategy :**
+- **- Delhi NCR (Priority Market):**
 - Invest in Agent training programs
 - Build Hybrid models combining agent expertise with digital convenience
 
