@@ -37,7 +37,7 @@ Shield Insurance now has clear visibility into what’s working—and where to f
 
 <h3 align="left">Insights</h3>
 
-- **Main View - Insights :**
+**Main View - Insights :**
   
 -	Total Revenue: 989.25M — strong topline.
 -	Total Customers: 26,841 — a healthy customer base.
