@@ -49,7 +49,7 @@ Shield Insurance now has clear visibility into what’s working—and where to f
 -	Emerging: Mumbai with 6,432 customers & 239.51M revenue ➔ Targeted marketing or new product offerings could accelerate growth further.
 -	31–40 Age Group Highest: 11,378 customers & 356.30M revenue ➔ Prime target segment — professionals with disposable income.
 
-- **Sales Mode View - Insights :**
+**Sales Mode View - Insights :**
 
 - Offline Agent leading contributor: customers 14873 (55.41%) and revenue ₹550.76M (55.67%)
 - Online channels (App + Website) together contribute ~25% of customers and ~29% of revenue
@@ -57,7 +57,7 @@ Shield Insurance now has clear visibility into what’s working—and where to f
 - Delhi NCR leads in customer base (~11K) as well as revenue (~400M)
 - Mumbai and Hyderabad show strong online adoption, indicating emerging digital-savvy markets.
 
-- **Age Group View - Insights :**
+**Age Group View - Insights :**
 
 - Age Demographics: 31–40 Age Group remains the largest with 11.4K Customers and 356.3M Revenue.
 - Sales Mode: Offline-Agent is the dominant sales mode across all ages, with most customers for 31–40 (6.1K).
@@ -68,9 +68,10 @@ Shield Insurance now has clear visibility into what’s working—and where to f
 
 <h3 align="left">Recommendations</h3>
 
-- **Geographic Strategy :**
-- Delhi NCR (Priority Market):
-- Invest in content marketing, social media, and online advertising to increase brand visibility.
+ **Geographic Strategy :**
+**- Delhi NCR (Priority Market):**
+- Invest in Agent training programs
+- Build Hybrid models combining agent expertise with digital convenience
 
 
 
