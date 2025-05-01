@@ -11,12 +11,12 @@ Shield Insurance is an insurance provider operating across five major cities in 
 
 <h3 align="left">Addressing the problem</h3>
 
-Build a powerful dashboard that answers key business questions: 
-1.     Which Customer Segments Generate the Highest Revenue?
-2.     What is the Optimal Channel Strategy for Each Geographic Market?
-3.     What are the Seasonal Revenue Patterns?
-4.     Which Policies Perform Best Across Different Customer Segments?
-5.     What are the Most Effective Growth Opportunities by City and Segment?
+Build a powerful dashboard that answers key business questions:
+1.	Which Customer Segments Generate the Highest Revenue?
+2.	What is the Optimal Channel Strategy for Each Geographic Market?
+3.	What are the Seasonal Revenue Patterns?
+4.	Which Policies Perform Best Across Different Customer Segments?
+5.	What are the Most Effective Growth Opportunities by City and Segment?
 
 <h3 align="left">Tools Used</h3>
 
